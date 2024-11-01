@@ -137,8 +137,8 @@ header {
     }
 }
 
-/* diary */
-#diary {
+/* aboutriga */
+#aboutriga {
     margin-bottom: 120px;
 }
 
@@ -154,20 +154,20 @@ header {
     margin-bottom: 30px;
 }
 
-#diary img {
+#aboutriga img {
     height: 280px;
     width: 210px;
     border-radius: 7px;
 }
 
-#diary a {
+#aboutriga a {
     background: #babda9;
     color: aliceblue;
     padding: 10px 5px 12px;
     font-size: 16px;
 }
 
-#diary a:hover {
+#aboutriga a:hover {
     color: rgb(30, 46, 42);
     text-decoration-line: underline;
     transition: .3s;
