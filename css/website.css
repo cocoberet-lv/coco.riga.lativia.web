@@ -180,7 +180,7 @@ header {
         margin-bottom: 30px;
     }
 
-    #diary img {
+    #aboutriga img {
         height: 200px;
         width: 150px;
     }
@@ -191,7 +191,7 @@ header {
         max-width: 150px;
     }
 
-    #diary a {
+    #aboutriga a {
         padding: 6px 3px;
     }
 }
