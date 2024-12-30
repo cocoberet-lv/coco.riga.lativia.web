@@ -196,10 +196,46 @@ header {
     }
 }
 
-/* info  */
+/* info */
 #info {
     margin-bottom: 120px;
 }
+
+
+#info img {
+    height: 280px;
+    width: 210px;
+    border-radius: 7px;
+}
+
+#info a {
+    background: #babda9;
+    color: aliceblue;
+    padding: 10px 5px 12px;
+    font-size: 16px;
+}
+
+#info a:hover {
+    color: rgb(30, 46, 42);
+    text-decoration-line: underline;
+    transition: .3s;
+}
+
+/* .container_service info */
+
+@media only screen and (max-width:768px) {
+
+    #info img {
+        height: 200px;
+        width: 150px;
+    }
+
+
+    #info a {
+        padding: 6px 3px;
+    }
+}
+
 
 /* contact */
 #contact {
