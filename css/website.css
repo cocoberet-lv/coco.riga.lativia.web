@@ -196,6 +196,11 @@ header {
     }
 }
 
+/* info  */
+#info {
+    margin-bottom: 120px;
+}
+
 /* contact */
 #contact {
     margin-bottom: 60px;
